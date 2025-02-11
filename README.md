@@ -1,13 +1,13 @@
 # Data Scientist
 
-### Education
+Education
 Bachelors in Biotechnology
 Minor in Data Science/ Analytics
 
-###Work Experience
+Work Experience
 -Hopefully Soon
 
-####Projects
+Projects
 -Learning the fundamentals at the moment
 
 
